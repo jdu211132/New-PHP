@@ -1,0 +1,23 @@
+h1 {
+
+    text-align: center;
+
+}
+
+ul {
+
+    text-align: justify;
+    display: flex;
+    
+}
+
+ul li {
+
+margin-left: 25%;
+
+}
+body{
+
+    background-color: rgb(176, 176, 176);
+    
+}
